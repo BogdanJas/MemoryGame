@@ -1,0 +1,14 @@
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.exe
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.deps.json
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.json
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.dev.json
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.dll
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.pdb
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfoInputs.cache
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfo.cs
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csproj.CoreCompileInputs.cache
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.dll
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.pdb
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.genruntimeconfig.cache
+D:\Pulpit\Foldery\Studia\ProjektMotorola\MemoryGame\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csproj.AssemblyReference.cache
